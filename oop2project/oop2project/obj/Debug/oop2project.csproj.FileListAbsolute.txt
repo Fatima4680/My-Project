@@ -1,0 +1,26 @@
+C:\Users\User\source\repos\oop2project\oop2project\bin\Debug\oop2project.exe.config
+C:\Users\User\source\repos\oop2project\oop2project\bin\Debug\oop2project.exe
+C:\Users\User\source\repos\oop2project\oop2project\bin\Debug\oop2project.pdb
+C:\Users\User\source\repos\oop2project\oop2project\obj\Debug\oop2project.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\oop2project\oop2project\obj\Debug\oop2project.Form1.resources
+C:\Users\User\source\repos\oop2project\oop2project\obj\Debug\oop2project.Form2.resources
+C:\Users\User\source\repos\oop2project\oop2project\obj\Debug\oop2project.Form3.resources
+C:\Users\User\source\repos\oop2project\oop2project\obj\Debug\oop2project.Properties.Resources.resources
+C:\Users\User\source\repos\oop2project\oop2project\obj\Debug\oop2project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\oop2project\oop2project\obj\Debug\oop2project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\oop2project\oop2project\obj\Debug\oop2project.exe
+C:\Users\User\source\repos\oop2project\oop2project\obj\Debug\oop2project.pdb
+C:\Users\User\source\repos\oop2project\oop2project\obj\Debug\oop2project.Form4.resources
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\bin\Debug\oop2project.exe.config
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\bin\Debug\oop2project.exe
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\bin\Debug\oop2project.pdb
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\obj\Debug\oop2project.csproj.AssemblyReference.cache
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\obj\Debug\oop2project.Form1.resources
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\obj\Debug\oop2project.Form2.resources
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\obj\Debug\oop2project.Form3.resources
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\obj\Debug\oop2project.Form4.resources
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\obj\Debug\oop2project.Properties.Resources.resources
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\obj\Debug\oop2project.csproj.GenerateResource.cache
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\obj\Debug\oop2project.csproj.CoreCompileInputs.cache
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\obj\Debug\oop2project.exe
+Q:\Lectues\6th semester\oop2\oop2project\oop2project\obj\Debug\oop2project.pdb
