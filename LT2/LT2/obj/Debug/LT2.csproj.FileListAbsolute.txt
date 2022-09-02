@@ -1,0 +1,12 @@
+Q:\LT2\LT2\bin\Debug\LT2.exe.config
+Q:\LT2\LT2\bin\Debug\LT2.exe
+Q:\LT2\LT2\bin\Debug\LT2.pdb
+Q:\LT2\LT2\obj\Debug\LT2.csproj.AssemblyReference.cache
+Q:\LT2\LT2\obj\Debug\LT2.Form1.resources
+Q:\LT2\LT2\obj\Debug\LT2.Form2.resources
+Q:\LT2\LT2\obj\Debug\LT2.Properties.Resources.resources
+Q:\LT2\LT2\obj\Debug\LT2.csproj.GenerateResource.cache
+Q:\LT2\LT2\obj\Debug\LT2.csproj.CoreCompileInputs.cache
+Q:\LT2\LT2\obj\Debug\LT2.exe
+Q:\LT2\LT2\obj\Debug\LT2.pdb
+Q:\LT2\LT2\obj\Debug\LT2.Form3.resources
